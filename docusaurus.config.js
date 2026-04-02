@@ -88,7 +88,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} BrandForge.com B.V. — BrandForge`,
+        copyright: `Copyright © ${new Date().getFullYear()} CMY.NL B.V. — BrandForge`,
       },
       prism: {
         theme: themes.github,
