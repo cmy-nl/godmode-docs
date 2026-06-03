@@ -71,6 +71,18 @@ const sidebars = {
     },
     {
       type: 'category',
+      label: '🌐 Domain Connect',
+      link: { type: 'doc', id: 'domain-connect/index' },
+      items: [
+        'domain-connect/whmcs',
+        'domain-connect/blesta',
+        'domain-connect/upmind',
+        'domain-connect/hostbill',
+        'domain-connect/api',
+      ],
+    },
+    {
+      type: 'category',
       label: '🔑 Licenses',
       link: { type: 'doc', id: 'licenses/index' },
       items: [
@@ -155,5 +167,4 @@ const sidebars = {
     },
   ],
 };
-
 module.exports = sidebars;
