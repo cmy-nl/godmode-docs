@@ -1,0 +1,8 @@
+{
+  "label": "Domain Connect",
+  "position": 2,
+  "link": {
+    "type": "doc",
+    "id": "domain-connect/index"
+  }
+}
