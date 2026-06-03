@@ -87,13 +87,4 @@ Yes — they can impersonate any reseller under them, and from within that resel
 All resellers and clients under them lose access immediately. No grace period applies at the distributor level.
 
 **Can a distributor have their own branding?**
-Yes. They can set their own logo, colors, and custom domain. Resellers inherit this branding unless they have their own branding profile.
-
-## Related pages
-
-- [Create a distributor →](/docs/distributors/create-distributor)
-- [Manage distributors →](/docs/distributors/manage-distributors)
-- [Distributor permissions →](/docs/distributors/distributor-permissions)
-- [Resellers →](/docs/resellers)
-- [Brandings →](/docs/brandings)
-- [Billing & credits →](/docs/billing)
+Yes. They can set their own logo, colors, and custom domain. Resellers inherit this branding unless they have their own branding profile
