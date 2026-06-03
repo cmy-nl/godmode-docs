@@ -73,7 +73,7 @@ When a distributor is suspended, **all resellers and end clients under them lose
 
 ## Branding inheritance
 
-Distributors can configure their own logo, colors, and custom domain. Resellers under them **inherit this branding by default** unless they have their own branding profile configured. See [Brandings →](/docs/brandings) for details.
+Distributors can configure their own logo, colors, and custom domain. Resellers under them **inherit this branding by default** unless they have their own branding profile configured.
 
 ## Common questions
 
@@ -81,7 +81,7 @@ Distributors can configure their own logo, colors, and custom domain. Resellers 
 Unlimited by default, controlled by their package allocation set by the Super Admin.
 
 **Can a distributor see end client data?**
-Yes — they can impersonate any reseller under them, and from within that reseller's view, impersonate any end client. All impersonation events are recorded in the [Audit log →](/docs/audit-logs).
+Yes — they can impersonate any reseller under them, and from within that reseller's view, impersonate any end client. All impersonation events are recorded in the Audit log.
 
 **What happens when a distributor is suspended?**
 All resellers and clients under them lose access immediately. No grace period applies at the distributor level.
