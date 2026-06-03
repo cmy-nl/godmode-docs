@@ -23,6 +23,10 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "2.0.1"
   },
+  "overrides": {
+    "webpack": "5.84.1",
+    "webpackbar": "5.0.2"
+  },
   "browserslist": {
     "production": [
       ">0.5%",
